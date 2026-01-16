@@ -1,0 +1,30 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, "Times New Roman", sans-serif;
+    /* outline: 2px solid red; */
+}
+
+body {
+    background-color: rgb(178, 178, 247);
+}
+
+h1 {
+    text-align: center;
+    font-size: 64px;
+    /* padding: 32px; */
+    margin: 32px;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+    height: 450px;
+    width: 450px
+}
+
+h2, h3, p, li, ul, ol{
+    /* padding: 32px; */
+    margin: 32px;
+}
